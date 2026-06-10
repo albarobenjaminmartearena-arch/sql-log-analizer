@@ -1,0 +1,5 @@
+timestamp,ip_origen,usuario,resultado
+2026-06-01 10:05:23,192.168.1.45,admin,FAILED
+2026-06-01 10:06:11,192.168.1.45,root,FAILED
+2026-06-01 10:07:02,10.0.0.12,maria,SUCCESS
+2026-06-01 10:08:44,192.168.1.45,admin,FAILED
